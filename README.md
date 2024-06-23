@@ -52,3 +52,67 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Answers:
+1. Select Your Operating System (OS)
+Chosen OS: Windows 11
+
+Action: Download and install Windows 11 from Microsoft's official site.
+2. Install a Text Editor or Integrated Development Environment (IDE)
+Chosen IDE: Visual Studio Code
+
+Action: Download and install Visual Studio Code from here.
+3. Set Up Version Control System
+Install Git: Download and install Git from Git's official site.
+Create GitHub Account: Sign up at GitHub.
+Initialize Git Repository
+4. Install Necessary Programming Languages and Runtimes
+Chosen Language: Python
+
+Action: Download and install Python from Python's official site.
+5. Install Package Managers
+Chosen Package Manager: pip
+
+Action: pip comes bundled with Python, to upgrade pip:
+sh
+Copy code
+python -m pip install --upgrade pip
+6. Configure a Database (MySQL)
+Action: Download and install MySQL from MySQL Installer.
+7. Set Up Development Environments and Virtualization (Optional)
+Virtualization Tool: Docker
+
+Action: Download and install Docker from Docker's official site.
+8. Explore Extensions and Plugins
+Visual Studio Code Extensions:
+
+Python: For Python development.
+GitLens: For Git supercharged.
+Prettier: For code formatting.
+ESLint: For linting JavaScript.
+To install these extensions, go to the Extensions view in VS Code (Ctrl+Shift+X), search for the extension name, and click Install.
+
+9. Document Your Setup
+Create a comprehensive document detailing each step:
+
+Operating System: Installation steps and any custom configurations.
+IDE: Installation and setup of Visual Studio Code.
+Version Control: Steps to install Git, create a GitHub account, and initialize a repository.
+Programming Languages: Steps to install Python.
+Package Managers: Steps to ensure pip is installed and upgraded.
+Database: Steps to install MySQL and any configuration done.
+Development Environments: Steps for setting up Docker (if used).
+Extensions and Plugins: List of installed extensions and their configurations.
+Example Document Structure:
+
+a. Introduction
+b. Operating System Installation
+c. IDE Installation and Configuration
+d. Version Control Setup
+e. Programming Language Installation
+f. Package Managers
+g. Database Configuration
+h. Development Environment Virtualization
+i. Extensions and Plugins
+j. Troubleshooting and Customizations
+This documentation serves as my reference for replicating the setup on another machine or troubleshooting any issues that arise during development.
